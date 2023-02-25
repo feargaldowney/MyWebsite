@@ -11509,6 +11509,6 @@ html {
 }
 
 .my-form {
-  margin: 25%;
-  background-color: #a52834;
+  margin-left: 25%;
+  margin-right: 25%;
 }
